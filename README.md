@@ -7,9 +7,9 @@
 
 #### Dependencies
 * matic-cli
+* Visual Studio Mac
 * authereum account
-* truffle
-* node.js
+* dotNET core
 * redis-server (running)
 
 ### Setup
@@ -17,14 +17,18 @@
 ```bash
 git clone https://github.com/canokaue/matiCast
 cd matiCast
+source install.sh
+# if Windows run .exe found in matiCastWebApp/bin or /debug
+# depends on you VS build config
+# if Mac open VSMac and build locally
 ```
 
 ### Configureye
 
 Required settings (=example):
-* CLIENT = "123"
-* ENVIRONMENT = "23"
-* API_KEY = "12-123-VEDFSO"
+* CLIENT = "matiCast0"
+* ENVIRONMENT = "stable"
+* API_KEY = "1hu8is1278s8da9"
 * API_SECRET = "AHNG62SG379F32DSAVWSPFUNDUDZIIFSLJEAIUQUHLCG..."
 * TIMEZONE = "America/Sao_Paulo"
 
