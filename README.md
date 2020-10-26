@@ -14,7 +14,7 @@ You've probably already seen electronic picture frames around you aunt's house o
 your digital art NFTs in real time, by simply logging into your account!
 
 ### Do I need to port my NFTs to Matic?
-Nope, that's the magic! By using the interface contracts, and also due to Matic's underlying compatibility with EVM, this dApp can check validity and ownership directly from ETH mainet. This means lower (better yet, waaay lower) fees to keep your art gallery running, without the hasle of having to port your NFTs anywhere.
+Nope, that's the magic! By using the interface contracts, and also due to Matic's underlying compatibility with EVM, this dApp can check validity and ownership directly from ETH mainet. This means lower (better yet, waaay lower) fees to keep your art gallery running, without the hassle of having to port your NFTs anywhere.
 
 ### How do I build one display?
 You can follow the detailed explanation over at [this link](https://github.com/canokaue/matiCast/blob/master/instructions/index.md).
