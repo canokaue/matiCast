@@ -7,7 +7,7 @@
 <img src="example-images/maticast.png" align="center"/>
 
 ### What is matiCast?
-matiCast is an expansion of codyborn's TokenCast that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to the NFT-focused project.
+matiCast is a dApp that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to your NFT-focused art gallery.
 
 ### Ok...but what is it for?
 You've probably already seen electronic picture frames around you aunt's house or something like that. Think of matiCast as one of those that you can build yourself, using accessible and easy to use electronics, leveraging the power of Ethereum + Matic to display
