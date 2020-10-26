@@ -27,8 +27,8 @@ Nope, you can even customize how you want to display your NFTs!
 
 ### Contracts deployed
 All smart contracts are still deployed on Matic's testnet Mumbai. Plans on porting them over to mainet are currently on hold for the time being, as this is a Proof of Concept.
-* [ownable.sol]()
-* [validator.sol]()
+* [ownable.sol](https://mumbai-explorer.matic.today/address/0xf77465E89d5D9673c13d44AB2Ea28bD34F88992b/transactions)
+* [validator.sol](https://mumbai-explorer.matic.today/address/0xf77465E89d5D9673c13d44AB2Ea28bD34F88992b/transactions)
 
 Check out the official Matic docs for delailed instructions on how to deploy them:
 * [remix](https://docs.matic.network/docs/develop/remix)
