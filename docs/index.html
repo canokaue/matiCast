@@ -57,7 +57,7 @@
 
         window.onload = function () {
             // Load top screens with content
-            var h0Content = ["https://media.giphy.com/media/FxIFLUg6RUcVO/giphy.gif"];
+            var h0Content = ["https://media.giphy.com/media/FxIFLUg6RUcVO/giphy.gif", "https://media.giphy.com/media/3Au0vqnGKBgiI/giphy.gif"];
             var h0Transitions = ["https://media.giphy.com/media/3Au0vqnGKBgiI/giphy.gif"];
             CycleContent(document.getElementById("horizontal0"), h0Content, h0Transitions);
 
@@ -71,7 +71,7 @@
             
             var v1Content = ["https://tokencast.azureedge.net/images/blockcities.jpg", "https://tokencast.azureedge.net/images/virus.png"];
             var v1Transitions = ["https://tokencast.azureedge.net/images/static_glitch.gif", "https://tokencast.azureedge.net/images/static_vhs.gif", "https://tokencast.azureedge.net/images/static_tv.gif"];
-            CycleContent(document.getElementById("vertical1"), v1Content, v1Transitions);         
+            CycleContent(document.getElementById("vertical1"), v1Content, v1Transitions);
         
             // Update wall content on scroll
             var frameTopLocation = document.getElementById('tokencast_wall').offsetTop - window.innerHeight + (document.getElementById('tokencast_wall').height / 2);
