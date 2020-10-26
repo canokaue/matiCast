@@ -4,9 +4,29 @@
 
 > DIY Hardware NFT Art Display using Matic Network 🧥 🗄️ 👊
 
+### What is matiCast?
+matiCast is an expansion of codyborn's TokenCast that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to the NFT-focused project.
 
-#### Dependencies
+### Ok...but what is it for?
+You've probably already seen electronic picture frames around you aunt's house or something like that. Think of matiCast as one of those that you can build yourself, using accessible and easy to use electronics, leveraging the power of Ethereum + Matic to display
+your digital art NFTs in real time, by simply logging into your account!
+
+### How do I build one display?
+You can follow the detailed explanation over at [this link](https://github.com/canokaue/matiCast/blob/master/instructions/index.md).
+But this is the recommended display setup:
+<img src="example-images/dimensions.png" align="center"/>
+
+### Do I need specific hardware to do that?
+Nope, all hardware tutorials are suggestions to help you out. You can use alternative material and builds as you wish, and you can leverage the dApp to demo matiCast directy in your browser.
+
+### Am I stuck with the NFT standard view?
+Nope, you can even customize how you want to display your NFTs!
+<img src="example-images/swatch.png" align="center"/>
+
+
+#### Dev Dependencies
 * matic-cli
+* solidity 0.4.24
 * Visual Studio Mac
 * authereum account
 * dotNET core
@@ -23,7 +43,7 @@ source install.sh
 # if Mac open VSMac and build locally
 ```
 
-### Configureye
+### Config
 
 Required settings (=example):
 * CLIENT = "matiCast0"
