@@ -7,6 +7,7 @@
 
 #### Dependencies
 * matic-cli
+* authereum account
 * truffle
 * node.js
 * redis-server (running)
