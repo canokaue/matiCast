@@ -4,6 +4,8 @@
 
 > DIY Hardware NFT Art Display using Matic Network 🧥 🗄️ 👊
 
+<img src="example-images/maticast.png" align="center"/>
+
 ### What is matiCast?
 matiCast is an expansion of codyborn's TokenCast that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to the NFT-focused project.
 
