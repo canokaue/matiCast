@@ -2,7 +2,7 @@
 
 # matiCast
 
-> DIY Hardware NFT Art Display using Matic Network 🧥 🗄️ 👊
+> DIY Web + Hardware NFT Art Display using Matic Network 🧥 🗄️ 👊
 
 <img src="example-images/maticast.png" align="center"/>
 
