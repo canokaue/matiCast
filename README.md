@@ -25,6 +25,14 @@ Nope, all hardware tutorials are suggestions to help you out. You can use altern
 Nope, you can even customize how you want to display your NFTs!
 <img src="example-images/swatch.PNG" align="center"/>
 
+### Contracts deployed
+All smart contracts are still deployed on Matic's testnet Mumbai. Plans on porting them over to mainet are currently on hold for the time being, as this is a Proof of Concept.
+* [ownable.sol]()
+* [validator.sol]()
+
+Check out the official Matic docs for delailed instructions on how to deploy them:
+* [remix](https://docs.matic.network/docs/develop/remix)
+* [truffle](https://docs.matic.network/docs/develop/truffle) (personally recommended)
 
 #### Dev Dependencies
 * matic-cli
