@@ -9,6 +9,9 @@
 ### What is matiCast?
 matiCast is a dApp that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to your NFT-focused art gallery.
 
+### Do I need to port my NFTs to Matic?
+Nope, that's the magic! By using the interface contracts, and also due to Matic's underlying compatibility with EVM, this dApp can check validity and ownership directly from ETH mainet. This means lower (better yet, waaay lower) fees to keep your art gallery running, without the hasle of having to port your NFTs anywhere.
+
 ### Ok...but what is it for?
 You've probably already seen electronic picture frames around you aunt's house or something like that. Think of matiCast as one of those that you can build yourself, using accessible and easy to use electronics, leveraging the power of Ethereum + Matic to display
 your digital art NFTs in real time, by simply logging into your account!
