@@ -60,19 +60,19 @@ This will help the Raspberry Pi dissipate heat.
 2. Insert the SD card, keyboard, and monitor and boot up your Raspberry Pi
 3. Upon boot up the OS should prompt you to configure the wifi network and install updates.
 4. You can adjust the resolution by opening the start menu, select Preferences, Raspberry Pi Configuration
-5. Run the following script to install TokenCast:
+5. Run the following script to install matiCast:
 
-`sudo bash -c "$(curl https://raw.githubusercontent.com/codyborn/tokenCast/master/install.sh)"`
+`sudo bash -c "$(curl https://raw.githubusercontent.com/canokaue/matiCast/master/install.sh)"`
 
-6. The Raspberry Pi will reboot for settings update to take effect and should automatically start tokenCast on reboot
+6. The Raspberry Pi will reboot for settings update to take effect and should automatically start matiCast on reboot
 
 ## Connecting to your device
-After running the installation script, you should be prompted with a QR code and a URL. If connecting with your phone, you can scan the QR code and navigate to the site with a web3 wallet.  If on a PC, you can navigate to the URL https://tokencast.net/Account and enter the device ID by clicking "Register New Device".
+After running the installation script, you should be prompted with a QR code and a URL. If connecting with your phone, you can scan the QR code and navigate to the site with a web3 wallet.  If on a PC, you can navigate to the URL https://canokaue.github.io/maticast/loaderAuth.html and enter the device ID by clicking "Register New Device".
 
 For mobile devices, we recommend using [Opera browser](https://www.opera.com/mobile) for Android or MetaMask for [Android](https://play.google.com/store/apps/details?id=io.metamask) or [IOS](http://metamask.app.link/).
 For your PC, [MetaMask](https://metamask.io/) provides a great browser plug-in.
 
-You can connect multiple devices to the same frame. When adding a new device, navigate to [https://www.tokencast.net/Account](https://www.tokencast.net/Account) and enter the same device ID. You can always find your device ID by looking in the bottom right corner of your frame.
+You can connect multiple devices to the same frame. When adding a new device, navigate to [https://canokaue.github.io/maticast/loaderAuth.html](https://canokaue.github.io/maticast/loaderAuth.html) and enter the same device ID. You can always find your device ID by looking in the bottom right corner of your frame.
 
 ## Assembling the frame
 The only tricky part in putting the frame together is cutting the foam board and frame backboard to fit the monitor and the Raspberry Pi. When cutting the foam board, don't forget to take into account the slight offset of the monitor screen (the lower bevel is slightly larger than the upper bevel). In the case of the monitor linked above, the top bevel is 1/4" while the bottom is 7/8". That means that we'll need to position the monitor slightly lower to have the screen centered.
@@ -87,7 +87,7 @@ Therefore:
 - x (bottom) = 1.25 = 1 1/4"
 - y (top) = 1.875 = 1 7/8"
 
-![Foam Board Dimensions](https://raw.githubusercontent.com/codyborn/tokenCast/master/images/dimensions.PNG "Foam board dimensions")
+![Foam Board Dimensions](https://raw.githubusercontent.com/canokaue/matiCast/master/images/dimensions.PNG "Foam board dimensions")
 
 After wiring up the Raspberry Pi, find a good position for the board to sit with the top of the board facing outward (to let heat escape). Since the Raspberry Pi won't be visible from the front, its position is less important. Cut a hole in the second 12"x16" foam board and the frame back panel to fit the Raspberry Pi.
 
@@ -96,14 +96,12 @@ After wiring up the Raspberry Pi, find a good position for the board to sit with
 ## ENS Support
 If you've setup a reverse resolver for your Ethereum address, your ENS name will be displayed instead of your Ethereum address.
 
-![ENS example](https://raw.githubusercontent.com/codyborn/tokenCast/master/images/ens_example.PNG "ENS example")
+![ENS example](https://raw.githubusercontent.com/canokaue/matiCast/master/images/ens_example.PNG "ENS example")
 
 ## Color Swatches
 Before displaying a token, you can make some customizations including updating the image size and background color. The background color swatch is algorithically derived from the token image. Here are some examples:
-![Swatch example](https://raw.githubusercontent.com/codyborn/tokenCast/master/images/swatch.PNG "Swatch example")
+![Swatch example](https://raw.githubusercontent.com/canokaue/matiCast/master/images/swatch.PNG "Swatch example")
 
 # Support this project
 Feedback and contributions are welcome. Token and art donations are appreciated! 
-
-Our public Ethereum address is __TokenCast.eth__
 
