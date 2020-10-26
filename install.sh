@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# this varies based on hardware kernel, reffer to its official documentation
+
 # install chromium
 sudo apt update
 sudo apt-get install chromium-browser --yes
