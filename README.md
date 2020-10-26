@@ -29,6 +29,7 @@ Nope, you can even customize how you want to display your NFTs!
 #### Dev Dependencies
 * matic-cli
 * solidity 0.4.24
+* truffle/remix
 * Visual Studio Mac
 * authereum account
 * dotNET core
