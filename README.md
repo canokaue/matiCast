@@ -7,14 +7,14 @@
 <img src="example-images/maticast.png" align="center"/>
 
 ### What is matiCast?
-matiCast is a dApp that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to your NFT-focused art gallery.
-
-### Do I need to port my NFTs to Matic?
-Nope, that's the magic! By using the interface contracts, and also due to Matic's underlying compatibility with EVM, this dApp can check validity and ownership directly from ETH mainet. This means lower (better yet, waaay lower) fees to keep your art gallery running, without the hasle of having to port your NFTs anywhere.
+matiCast is a dApp that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to your NFT-focused art gallery. You can test it out directly in your browser using compatible Web3 extensions, but the real deal here is to get your hands dirty and build your own blockchain-hardware display!
 
 ### Ok...but what is it for?
 You've probably already seen electronic picture frames around you aunt's house or something like that. Think of matiCast as one of those that you can build yourself, using accessible and easy to use electronics, leveraging the power of Ethereum + Matic to display
 your digital art NFTs in real time, by simply logging into your account!
+
+### Do I need to port my NFTs to Matic?
+Nope, that's the magic! By using the interface contracts, and also due to Matic's underlying compatibility with EVM, this dApp can check validity and ownership directly from ETH mainet. This means lower (better yet, waaay lower) fees to keep your art gallery running, without the hasle of having to port your NFTs anywhere.
 
 ### How do I build one display?
 You can follow the detailed explanation over at [this link](https://github.com/canokaue/matiCast/blob/master/instructions/index.md).
