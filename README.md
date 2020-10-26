@@ -14,14 +14,14 @@ your digital art NFTs in real time, by simply logging into your account!
 ### How do I build one display?
 You can follow the detailed explanation over at [this link](https://github.com/canokaue/matiCast/blob/master/instructions/index.md).
 But this is the recommended display setup:
-<img src="example-images/dimensions.png" align="center"/>
+<img src="example-images/dimensions.PNG" align="center"/>
 
 ### Do I need specific hardware to do that?
 Nope, all hardware tutorials are suggestions to help you out. You can use alternative material and builds as you wish, and you can leverage the dApp to demo matiCast directy in your browser.
 
 ### Am I stuck with the NFT standard view?
 Nope, you can even customize how you want to display your NFTs!
-<img src="example-images/swatch.png" align="center"/>
+<img src="example-images/swatch.PNG" align="center"/>
 
 
 #### Dev Dependencies
