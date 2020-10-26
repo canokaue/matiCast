@@ -4,6 +4,8 @@
 
 > Web3 + DIY Hardware NFT Art Display using Matic Network 🧥 🗄️ 👊
 
+Youtube [demo](https://youtu.be/88XNFrcH55c).
+
 <img src="example-images/maticast.png" align="center"/>
 
 ### What is matiCast?
