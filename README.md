@@ -7,6 +7,16 @@
 Youtube [demo](https://youtu.be/88XNFrcH55c).
 
 <img src="example-images/maticast.png" align="center"/>
+<br /><br />
+
+## Untitled NFT Hackathon Winner
+### Matic Bounties 3rd Place
+<img src="img/nft-hack-result.jpeg" align="center"/>
+<br />
+<br />
+Huge thanks to Matic Network and Untitled NFT Hackathon organizers!
+<br />
+<br />
 
 ### What is matiCast?
 matiCast is a dApp that seamslessly integrates with Matic Network in order to bring more speed, scalabity and efficiency to your NFT-focused art gallery. You can test it out directly in your browser using compatible Web3 extensions, but the real deal here is to get your hands dirty and build your own blockchain-hardware display!
