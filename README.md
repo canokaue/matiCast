@@ -83,3 +83,8 @@ Available settings (= std_value):
 * SAVE_LOGS = False
 * LOG_DIR = "logs/"
 * MAX_LOG_SIZE = 100000000 # 100Mb
+
+### Credits
+* This project is a fork of [codyborn's  project](https://github.com/codyborn/tokenCast).
+* Huge thanks to the Matic team for the support and help provided during the hackathon.
+* [dj-powehi](https://github.com/dj-powehi)
